@@ -58289,7 +58289,7 @@ s.a.toString
 return new A.n8(B.BT[b],b,B.lX[b],B.B6[b],B.B7[b],r)},
 $S:365}
 A.n8.prototype={
-I(a){var s=this,r=null,q=A.oD(r,r,60),p=s.e,o=A.dC(r,r,r,r,r,r,r,p*30),n=s.f,m=s.r,l=n===m?B.fs:B.EB,k=t.E
+I(a){var s=this,r=null,q=A.oD(r,r,50),p=s.e,o=A.dC(r,r,r,r,r,r,r,p*30),n=s.f,m=s.r,l=n===m?B.fs:B.EB,k=t.E
 p=A.XK(A.a([o,A.dC(r,A.qK(A.dC(r,A.dk(B.f.h(s.d),r,r,A.fe(r,r,B.i,r,r,r,r,r,r,r,r,30,r,r,B.al,r,r,!0,r,r,r,r,r,r,r,r),r),r,r,r,new A.aA(22,22,22,22),r,r),r,r),r,new A.fs(l,r,r,r,r,r,B.kn),85,r,r,60),A.dC(r,r,r,r,r,r,r,(1-p)*30)],k),B.aw,B.ay,B.ap)
 l=A.dk(s.c,r,r,A.fe(r,r,r,r,r,r,r,r,r,r,r,27,r,r,B.Z,r,r,!0,r,r,r,r,r,r,r,r),B.aR)
 return A.Se(r,A.XK(A.a([q,p,A.dC(r,A.nd(A.a([l,n!==0?A.dk(""+m+" von "+n+" Fragen beantwortet",r,r,A.fe(r,r,r,r,r,r,r,r,r,r,r,15,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r):A.dC(r,r,r,r,r,r,r,r)],k),B.d_,B.ay,B.ap),r,r,r,new A.aA(10,0,0,0),r,200)],k),B.aw,B.ay,B.ap),B.aG,!1,r,r,r,r,r,r,r,r,r,r,new A.Ou(a),r,r,r,r,r,r)}}
@@ -58326,7 +58326,7 @@ o=s[p]
 n=$.aR()?A.bt():new A.bk(new A.bo())
 n.sa8(0,B.l7)
 n.sfs(3)
-a.f6(new A.u(q*30+60+30,85*r+42.5),new A.u(o*30+60+30,85*p+42.5),n)}},
+a.f6(new A.u(q*30+60+25,85*r+42.5),new A.u(o*30+60+25,85*p+42.5),n)}},
 jN(a){return!1}}
 A.Cq.prototype={
 I(a){var s=A.aC(a).RG,r=A.e7(s.a),q=A.e7(s.b),p=A.e7(s.c),o=A.e7(s.d),n=A.e7(s.e),m=A.e7(s.f),l=A.e7(s.r),k=A.e7(s.w),j=A.e7(s.x)
