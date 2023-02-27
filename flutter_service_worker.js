@@ -3,12 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c6df0dabea67540336b843ca1db10d94",
+  "assets/AssetManifest.json": "956494bebac06effd98887704e97131b",
 "assets/assets/button.riv": "fc36977eadb1f1df675ac219d2418c91",
 "assets/assets/checkmark.riv": "5651a693df0c751305eaa41cfc7308f5",
 "assets/assets/images/Baum.jpg": "a1917dfb1dfafd9450a82a979dfda9d8",
 "assets/assets/images/Himmel.jpg": "94c689699ef5943dc383c53aab9922d7",
 "assets/assets/images/Kultur.jpg": "655cae701d5b49b2a60da79edb69835b",
+"assets/assets/images/Pulverturm.jpg": "5549ee06de36a01f769a3488c8857f10",
 "assets/assets/images/Veranstaltungen.jpg": "65d66591cdfb87403c777ff3a0b8b053",
 "assets/assets/loading_bar.riv": "ba7e65b56508be59e55fbc0f84675341",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -43,9 +44,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "ab3fa7c5eda8400bf209ddb91adcc015",
-"/": "ab3fa7c5eda8400bf209ddb91adcc015",
-"main.dart.js": "ff76b1238a711850b1299505d18b809a",
+"index.html": "9db41726b8b6a27b091e9b8d78a449aa",
+"/": "9db41726b8b6a27b091e9b8d78a449aa",
+"main.dart.js": "8ad5428390e15de6df9a4cc6cb5c662a",
 "manifest.json": "f42279028b0d60427c7dd72ad1b99f5b",
 "version.json": "2067ab2dcb637b7b0df8f2434db66f66"
 };
